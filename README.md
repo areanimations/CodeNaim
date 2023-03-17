@@ -1,6 +1,7 @@
 # 💫 About Me:
 - Im currently working on multiple projects
-- <br> - Im still in college!<br> - Im improving my reverse enginnering skills<br>
+- Im still in college!
+- Im improving my reverse enginnering skills
 
 
 ## 🌐 Socials:
