@@ -1,4 +1,6 @@
 # 💫 About Me:
+- looking for a job 
+- 20 years old
 - Im currently working on multiple projects
 - Im still in college!
 - Im improving my reverse enginnering skills
