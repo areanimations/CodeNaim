@@ -24,7 +24,7 @@
 [![](https://visitcount.itsvg.in/api?id=NaimTech&icon=0&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](REMOVED) 
+  [![Removed!](Naimtech) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
